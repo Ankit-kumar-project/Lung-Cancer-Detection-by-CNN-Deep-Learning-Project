@@ -24,9 +24,9 @@ Computer Vision is one of the applications of deep neural networks and one such 
 "https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset/data"
 
 Dataset/
-├── Benign cases/
-├── Malignant cases/
-└── Normal cases/
+|-- Benign cases/
+|-- Malignant cases/
+|-- Normal cases/
 
 Each directory consist of CT images belong to there respective classes
 
