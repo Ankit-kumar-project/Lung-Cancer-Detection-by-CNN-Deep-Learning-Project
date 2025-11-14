@@ -8,8 +8,16 @@ Computer Vision is one of the applications of deep neural networks and one such 
 # Folder Structure
 |
 |-LungCancerByCNN.ipynb
-|-CNN_Project.pptx
+|-Lung_Cancer_Detection_Using_CNN.pptx
 |-README.md
+|-Website_view.mp4
+
+
+## Lung_Cancer_Detection_Using_CNN.pptx
+    It is documented representation  of why i choose this project , how it built and  how it work .
+
+## Website_view.mp4
+    It show how my website work
 
 ## API Dataset from kaggle
 
@@ -52,6 +60,8 @@ It's Accuracy score is 0.9994 with 0.0027 loss function
 
 ### 5. Saving the Model
 After training, the model is saved for future deployment.
+
+
 
 
 
